@@ -1,2 +1,2 @@
 # SunDevilGivingDay
-ASU Sun Devil Giving Day EMail
+ASU Sun Devil Giving Day Email
